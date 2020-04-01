@@ -12,4 +12,4 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, check p
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("**`YO BRO JABTAK YE KHEL KHATAM NHI HOTA APUN IDHARICH HAI ψ(｀∇´)ψ`**\n\n"
-                     "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @ShubhDevil\n")
+                     "`Telethon version: 61.9.0\nPython: 53.7.3\nBot by:` @ShubhDevil\n")
