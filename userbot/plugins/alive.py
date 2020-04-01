@@ -15,4 +15,6 @@ async def amireallyalive(alive):
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @A_Dark_Princ3\n"
                      "`Bot created by:` [MONSTERR](tg://user?id=1225425445)\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
-                     f"`My peru owner`: {DEFAULTUSER}\n")
+                     f"`My peru owner`: {DEFAULTUSER}\n"
+                     "[Deploy this userbot Now](https://github.com/Dark-Princ3/X-tra-Telegram)")
+
