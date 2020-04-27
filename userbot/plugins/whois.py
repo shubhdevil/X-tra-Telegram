@@ -48,7 +48,7 @@ async def _(event):
         location = str(e)
     caption = """Extracted Userdata By Shubh Devil's Security System From Telegram's DATABASE
 ID: <code>{}</code>
-Rendi's Name: <a href='tg://user?id={}'>{}</a>
+Boi's Name: <a href='tg://user?id={}'>{}</a>
 Bio: {}
 DC ID: {}
 Number of PPs: {}
