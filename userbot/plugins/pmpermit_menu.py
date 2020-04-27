@@ -83,7 +83,7 @@ async def _(event):
              await response.delete()
              x = response.text
              if x == "1":
-                 await borg.send_message(chat, "`Oh my, you're very much welcome here ;).\nPlease drop your offerings and let my master judge if you have good heart <3.`\n\n **Please don't flood my inbox, we'll have a nice convo once i come back ;D**")
+                 await borg.send_message(chat, "You nigga gay af to send a guy like my your male nudes. \nLeave immediately else you become the ultimate gayest gay the gay world has ever seen. I will reply you when i get online.**")
                  response = await conv.get_response(chat)
                  if not response.text == "/start":
                      await borg.send_message(chat, LWARN)
@@ -96,7 +96,7 @@ async def _(event):
                          await asyncio.sleep(3)
                          await event.client(functions.contacts.BlockRequest(chat_id))
              elif x == "2":
-                 await borg.send_message(chat, "**You nigga gay af to send a guy like my your male nudes. \nLeave immediately else you become the ultimate gayest gay the gay world has ever seen. I will reply you when i get online.**")
+                 await borg.send_message(chat, "`Bhag ja Sale \n **Please don't flood my master's inbox, **")
                  response = await conv.get_response(chat)
                  if not response.text == "/start":
                      await borg.send_message(chat, LWARN)
